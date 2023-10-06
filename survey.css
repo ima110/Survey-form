@@ -1,0 +1,65 @@
+/* UPPER PART */
+#title{
+    text-align:center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#description{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#survey-form{
+    margin: auto;
+    width: 50%;
+    max-width: 1000px;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nena input{
+    margin-top: 5px;
+    display: block;
+    width: 80%;
+    margin-bottom: 10px;
+}
+#selected{
+    margin:0;
+    margin-bottom: 5px;
+}
+.recommend label,.improve label{
+    display: block;
+    margin-bottom: 5px;
+}
+#dropdown{
+    width: 80%;
+}
+.recommend p{
+    margin: 0;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.feature{
+    margin-top: 10px;
+}
+.comment textarea{
+    width:80%;
+    height:100px;
+    padding-block: 0.625rem;
+    margin: 0;
+}
+body{
+    background-image: url("https://nycofficesuites.com/wp-content/uploads/2018/11/shutterstock_375557014-min.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#survey-form{
+    background-color: rgba(36, 32, 32, 0.8);
+    color: aliceblue;
+}
+button{
+    width:80%;
+    padding: 10px;
+    margin-left: auto;
+    background-color: rgb(15, 90, 15);
+    color: aliceblue;
+}
